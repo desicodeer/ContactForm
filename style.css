@@ -69,16 +69,15 @@ body, html{
     cursor: pointer;
     }
     .contact-left button img{
-     height: 15px;
-     }
-     .contact-right img{
+     height: 15px;}
+    .contact-right img{
     width: 500px;
-    } 
+    }
 @media (max-width: 800px) {
     .contact-inputs{
-       width: 80vw;
+    width: 80vw;
     }
     .contact-right{
-      display: none;
+    display: none;
     }
 }
